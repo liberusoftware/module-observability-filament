@@ -8,7 +8,6 @@ use Filament\Pages\Page;
 
 final class Overview extends Page
 {
-    protected static string $view = 'observability-filament::overview';
+    protected string $view = 'observability-filament::overview';
     protected static ?string $title = 'Observability';
 }
-

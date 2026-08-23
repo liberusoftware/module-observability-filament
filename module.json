@@ -3,7 +3,7 @@
   "name": "observability-filament",
   "display_name": "Observability Filament",
   "description": "Observability filament presentation adapter.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "category": "presentation",
   "provider": "Liberu\\Foundation\\ObservabilityFilament\\ObservabilityFilamentServiceProvider",
   "requires": {
@@ -31,4 +31,3 @@
     }
   }
 }
-
